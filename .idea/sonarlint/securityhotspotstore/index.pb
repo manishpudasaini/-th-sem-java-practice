@@ -31,3 +31,11 @@ T
 $src/file/BufferedReagerPractice.java,1/5/1508116d5d7b5ed61a33e7f8e123e960860685a5
 8
 test.txt,4/b/4b6fcb2d521ef0fd442a5301e7932d16cc9f375a
+E
+src/rmi/Practice.java,9/3/93bc5a8cd32d64fd92af8db878906ca03bfb7b8d
+I
+src/rmi/PracticeImpl.java,2/7/279f75e1c089e8ce13a7c94a38e8d2ca00cc5528
+F
+src/rmi/RmiServer.java,5/7/57a95e3f60bcd4129964f8d7b257a15d9109bd7f
+F
+src/rmi/RmiClient.java,6/6/66e90c5a1607ac997a4f7153e9aebd8cb258fdac
