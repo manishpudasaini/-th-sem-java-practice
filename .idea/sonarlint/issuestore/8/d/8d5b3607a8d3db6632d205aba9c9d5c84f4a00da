@@ -1,0 +1,7 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "count".(‚„ËÅøÿÿÿÿ8ÆØß×1
+L
+java:S1481"*Remove this unused "count" local variable.(‚„ËÅøÿÿÿÿ8ÇØß×1
+G	java:S106"+Replace this use of System.out by a logger.(áºÀõ8ÇØß×1
+F	java:S106"+Replace this use of System.out by a logger.(¿ ‡c8’´ã×1
